@@ -1,0 +1,25 @@
+body {
+	background-color: green
+}
+
+
+#one{
+
+  margin: 20px 10% 20px 10%;
+  border: black 3px dotted;
+  padding: 10px 20% 10px 20%;
+	color:red;
+	text-align:  left;
+}
+
+.m{
+	color:darkgreen;
+	text-align: left;
+
+}
+
+.o{
+	color:purple;
+
+
+}
